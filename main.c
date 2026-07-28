@@ -17,6 +17,7 @@ int main() {
   printf("Digite sua credencial: \n");
   scanf("%d", &credencial);
 
+  printf("===== DADOS =====\n");
   printf("Nome do aluno: %s - Credencial: %d \n", nome, credencial);
   printf("Idade: %d - Altura: %.2f", idade, altura);
 
