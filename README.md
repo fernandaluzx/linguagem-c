@@ -8,12 +8,12 @@ Este espaço foi criado para centralizar todos os meus exercícios práticos, at
 
 ## 📂 Projetos e Exercícios
 
-| Projeto / Tópico | Descrição | Conceitos Aplicados |
-| :--- | :--- | :--- |
-| **Super Trunfo** | Cadastro e exibição de dados de cartas de cidades. | `printf`, `scanf`, tipos de dados (`int`, `float`, `char`), formatação e limpeza de buffer. |
-| *(Em breve)* | *Estruturas Condicionais* | `if`, `else`, `switch case` |
-| *(Em breve)* | *Laços de Repetição* | `for`, `while`, `do-while` |
-| *(Em breve)* | *Vetores e Matrizes* | Arrays unidimensionais e multidimensionais |
+| Projeto / Tópico | Arquivo | Descrição | Conceitos Aplicados |
+| :--- | :--- | :--- | :--- |
+| **Super Trunfo** | `super_trunfo.c` | Cadastro e exibição de dados de cartas de cidades. | `printf`, `scanf`, tipos de dados (`int`, `float`, `char`), formatação e limpeza de buffer. |
+| **Cálculo de Média** | `medias.c` | Leitura de notas e cálculo da média aritmética. | Entrada/saída de dados, operadores aritméticos, resolução de referências no `scanf` e tipos numéricos. |
+| *(Em breve)* | -- | *Estruturas Condicionais* | `if`, `else`, `switch case` |
+| *(Em breve)* | -- | *Laços de Repetição* | `for`, `while`, `do-while` |
 
 ---
 
