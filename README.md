@@ -2,17 +2,17 @@
 
 Bem-vindo(a) ao meu repositório de estudos da **Linguagem C**! 🚀
 
-Este espaço foi criado para centralizar todos os meus exercícios práticos, atividades da faculdade e projetos pessoais desenvolvidos ao longo do meu aprendizado na linguagem. O objetivo principal é documentar minha evolução técnica, do nível básico ao avançado.
+Este espaço centraliza meus exercícios práticos, atividades acadêmicas e projetos desenvolvidos ao longo da minha jornada de aprendizado. O objetivo é documentar minha evolução técnica, do nível básico ao avançado.
 
 ---
 
 ## 📂 Projetos e Exercícios
 
-| Projeto / Tópico | Arquivo | Descrição | Conceitos Aplicados |
+| Projeto / Tópico | Arquivo | Nível / Status | Conceitos Aplicados |
 | :--- | :--- | :--- | :--- |
-| **Cadastro de Aluno** | `aluno.c` | Leitura e exibição de dados pessoais e acadêmicos. | `printf`, `scanf`, variáveis (`int`, `float`, `char[]`), formatação de texto. |
-| **Super Trunfo (Aventureiro)** | `super_trunfo.c` | Cadastro de cartas de cidades e cálculo de **Densidade Populacional** e **PIB per Capita**. | `printf`, `scanf`, operadores aritméticos (`/`, `*`), formatação de decimais (`%.2f`) e ordem de execução. |
-| **Cálculo de Média** | `medias.c` | Leitura de notas e cálculo da média aritmética. | Entrada/saída de dados, operadores aritméticos e tipos numéricos. |
+| **Cadastro de Aluno** | `aluno.c` | Concluído | `printf`, `scanf`, variáveis (`int`, `float`, `char[]`), formatação de texto. |
+| **Cálculo de Média** | `medias.c` | Concluído | Entrada/saída de dados, operadores aritméticos e tipos numéricos. |
+| **Super Trunfo** | `super_trunfo.c` | **Nível Mestre** 🏆 | `unsigned long int`, casting de tipos, operadores relacionais (`>`, `<`), lógica matemática sem `if/else`, cálculo de **Densidade Populacional**, **PIB per Capita** e **Super Poder**. |
 | *(Em breve)* | -- | *Estruturas Condicionais* | `if`, `else`, `switch case` |
 | *(Em breve)* | -- | *Laços de Repetição* | `for`, `while`, `do-while` |
 
@@ -29,7 +29,7 @@ Este espaço foi criado para centralizar todos os meus exercícios práticos, at
 
 ## 🚀 Como Compilar e Executar os Projetos
 
-Se você quiser rodar qualquer um dos códigos localmente, siga estes passos no terminal:
+Para rodar qualquer um dos códigos localmente, siga estes passos no terminal:
 
 1. **Clone o repositório:**
    ```bash
