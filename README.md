@@ -10,8 +10,8 @@ Este espaço foi criado para centralizar todos os meus exercícios práticos, at
 
 | Projeto / Tópico | Arquivo | Descrição | Conceitos Aplicados |
 | :--- | :--- | :--- | :--- |
-| **Cadastro de Aluno** | `main.c` | Leitura e exibição de dados pessoais e acadêmicos. | `printf`, `scanf`, variáveis (`int`, `float`, `char[]`), formatação de texto e `return 0`. |
-| **Super Trunfo** | `super_trunfo.c` | Cadastro e exibição de dados de cartas de cidades. | `printf`, `scanf`, tipos de dados, formatação e manipulação de buffer. |
+| **Cadastro de Aluno** | `aluno.c` | Leitura e exibição de dados pessoais e acadêmicos. | `printf`, `scanf`, variáveis (`int`, `float`, `char[]`), formatação de texto. |
+| **Super Trunfo (Aventureiro)** | `super_trunfo.c` | Cadastro de cartas de cidades e cálculo de **Densidade Populacional** e **PIB per Capita**. | `printf`, `scanf`, operadores aritméticos (`/`, `*`), formatação de decimais (`%.2f`) e ordem de execução. |
 | **Cálculo de Média** | `medias.c` | Leitura de notas e cálculo da média aritmética. | Entrada/saída de dados, operadores aritméticos e tipos numéricos. |
 | *(Em breve)* | -- | *Estruturas Condicionais* | `if`, `else`, `switch case` |
 | *(Em breve)* | -- | *Laços de Repetição* | `for`, `while`, `do-while` |
