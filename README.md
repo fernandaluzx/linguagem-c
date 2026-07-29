@@ -12,8 +12,8 @@ Este espaço centraliza meus exercícios práticos, atividades acadêmicas e pro
 | :--- | :--- | :--- | :--- |
 | **Cadastro de Aluno** | `aluno.c` | Concluído | `printf`, `scanf`, variáveis (`int`, `float`, `char[]`), formatação de texto. |
 | **Cálculo de Média** | `medias.c` | Concluído | Entrada/saída de dados, operadores aritméticos e tipos numéricos. |
-| **Super Trunfo** | `super_trunfo.c` | **Nível Mestre** 🏆 | `unsigned long int`, casting de tipos, operadores relacionais (`>`, `<`), lógica matemática sem `if/else`, cálculo de **Densidade Populacional**, **PIB per Capita** e **Super Poder**. |
-| *(Em breve)* | -- | *Estruturas Condicionais* | `if`, `else`, `switch case` |
+| **Super Trunfo** | `super_trunfo.c` | **Nível Mestre** 🏆 | `unsigned long int`, casting de tipos, operadores relacionais (`>`, `<`), cálculo de **Densidade Populacional**, **PIB per Capita** e **Super Poder**. |
+| **Comparações** | `condicionais.c` | Concluído | Estruturas condicionais encadeadas (`if`, `else if`, `else`), operadores de comparação. |
 | *(Em breve)* | -- | *Laços de Repetição* | `for`, `while`, `do-while` |
 
 ---
