@@ -1,26 +1,24 @@
 #include <stdio.h>
 int main() {
     //Declaração de variáveis
-    int pessoa1, pessoa2;
+    int idade;
 
     //Leitura de idades
-    printf("Idade Pessoa 1: ");
-    scanf("%d", &pessoa1);
-    printf("Idade Pessoa 2: ");
-    scanf("%d", &pessoa2);
+    printf("Digite sua idade: ");
+    scanf("%d", &idade);
 
     //Estrutura Condicional Encadeada (Apenas um dos blocos será executado)
-    if (pessoa1 > pessoa2){
-    //Caso a pessoa 1 seja mais velha
-    printf("Pessoa 1 é mais velha que pessoa 2");} 
+    if(idade < 12){
+    printf("Você é criança.\n");} 
     
-    else if (pessoa1 < pessoa2){
-    //Caso a pessoa 2 seja mais velha
-    printf("Pessoa 2 é mais velha que pessoa 1");}
+    else if(idade > 12 && idade < 18){
+    printf("Você é adolescente.\n");}
+
+    else if(idade > 18 && idade < 60){
+        printf("Você é adulto.\n");}
     
     else{
-    //Caso a idade das duas seja igual
-    printf("As duas pessoas tem a mesma idade.");}
+    printf("Você é idoso(a).");}
     
     return 0;
 }
