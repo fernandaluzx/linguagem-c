@@ -14,6 +14,8 @@ Este espaço centraliza meus exercícios práticos, atividades acadêmicas e pro
 | **Cálculo de Média** | `medias.c` | Concluído | Entrada/saída de dados, operadores aritméticos e tipos numéricos. |
 | **Super Trunfo** | `super_trunfo.c` | **Nível Mestre** 🏆 | `unsigned long int`, casting de tipos, operadores relacionais (`>`, `<`), cálculo de **Densidade Populacional**, **PIB per Capita** e **Super Poder**. |
 | **Comparações** | `condicionais.c` | Concluído | Estruturas condicionais encadeadas (`if`, `else if`, `else`), operadores de comparação. |
+| **Dias da Semana** | `switch.c` | Concluído | Estrutura de seleção múltipla (`switch`, `case`, `default`, `break`). |
+| **Jogo da Adivinhação** | `jogo.c` | Concluído 🎮 | Menu interativo (`switch`), lógica de palpites (`if-else`), geração de números aleatórios (`rand()`, `srand()`, `<stdlib.h>`, `<time.h>`). |
 | *(Em breve)* | -- | *Laços de Repetição* | `for`, `while`, `do-while` |
 
 ---
