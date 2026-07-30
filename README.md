@@ -12,7 +12,7 @@ Este espaço centraliza meus exercícios práticos, atividades acadêmicas e pro
 | :--- | :--- | :--- | :--- |
 | **Cadastro de Aluno** | `aluno.c` | Concluído | `printf`, `scanf`, variáveis (`int`, `float`, `char[]`), formatação de texto. |
 | **Cálculo de Média** | `medias.c` | Concluído | Entrada/saída de dados, operadores aritméticos e tipos numéricos. |
-| **Super Trunfo** | `super_trunfo.c` | **Nível Mestre** 🏆 | `unsigned long int`, casting de tipos, operadores relacionais (`>`, `<`), cálculo de **Densidade Populacional**, **PIB per Capita** e **Super Poder**. |
+| **Super Trunfo - Países** | `super_trunfo.c` | **Nível Aventureiro** 🃏 | Menu de seleção de atributo (`switch`), comparação dinâmica com `if-else`, tratamento de empates e regra invertida para **Densidade Demográfica** (menor valor vence). |
 | **Comparações** | `condicionais.c` | Concluído | Estruturas condicionais encadeadas (`if`, `else if`, `else`), operadores de comparação. |
 | **Dias da Semana** | `switch.c` | Concluído | Estrutura de seleção múltipla (`switch`, `case`, `default`, `break`). |
 | **Jogo da Adivinhação** | `jogo.c` | Concluído 🎮 | Menu interativo (`switch`), lógica de palpites (`if-else`), geração de números aleatórios (`rand()`, `srand()`, `<stdlib.h>`, `<time.h>`). |
